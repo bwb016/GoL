@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1444687709 source:/home/brandon/Desktop/CSC220/codeblocks/oct12/main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
